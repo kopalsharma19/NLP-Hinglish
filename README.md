@@ -21,6 +21,8 @@ Unlike standard feedforward neural networks, LSTM has feedback connections. It c
 Our LSTM Model has 3 layers with ReLU and sigmoid as activation functions and binary cross entropy for loss parameters. After training it on 20 epochs we got an accuracy of 83.4%. 
 We further deployed this on flask using ngrok. 
 
+![image](https://github.com/kopalsharma19/NLP-Hinglish/assets/43065428/625206ed-5551-4e88-a7c6-edd23e6309d0)
+
 ![image](https://github.com/kopalsharma19/NLP-Hinglish/assets/43065428/46a82427-f71c-4437-9cf4-d9c773887061)
 
 
